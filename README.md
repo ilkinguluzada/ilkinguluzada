@@ -5,7 +5,7 @@ I'm a Senior Software Engineer with 9 years of hands-on full stack experience, a
 
 ## 🔭 My tech stack
 
-ES6+, React (Next.js), GraphQL, TypeScriptRedux (Redux Thunk, Redux Saga), Context API, React Query, Node (Express.js, Nest.js), Pisma, Sequalize, MySQL, MongoDB, Tailwind, Material UI, Docker
+ES6+, React (Next.js), GraphQL, TypeScript, Redux (Redux Thunk, Redux Saga), Context API, React Query, Node (Express.js, Nest.js), Pisma, Sequalize, MySQL, MongoDB, Tailwind, Material UI, Docker
 
 ## 💬 Ask me about
 
